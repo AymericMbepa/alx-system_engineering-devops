@@ -8,3 +8,4 @@
 7-script that adds execution permission to the owner, the group owner and the other users, to the file hello
 8-script that set no permissions to all owner and all groupe owner and set all permissions to others to the file hello
 9-script that sets the mode of the file hello to this -rwxr-x-wx
+10-script that sets the mode of the file hello the same as olleh’s mode.
