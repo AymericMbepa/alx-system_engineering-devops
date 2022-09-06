@@ -7,3 +7,4 @@
 9-script that prints the result of POWER divided by DIVIDE, followed by a new line.
 10-script that displays the result of BREATH to the power LOVE
 11-convert binary to decimal
+12-script that prints all possible combinations of two letters, except oo
