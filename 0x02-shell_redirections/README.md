@@ -16,4 +16,5 @@
 15-Display the number of lines that contain the pattern “bin” in the file /etc/passwd
 17-Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
 19-Replace all characters A and c from input to Z and e respectively.
+20-script that removes all letters c and C from input.
 21-script that reverse its input.
