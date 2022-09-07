@@ -1,2 +1,2 @@
 #!/bin/bash
-! uniq -d\n
+! uniq -d
