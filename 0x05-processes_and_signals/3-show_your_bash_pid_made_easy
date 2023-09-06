@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-#display PID and process nane of processes whose name contening bash word
-pgrep -l "bash"
